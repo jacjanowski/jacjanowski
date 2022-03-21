@@ -8,9 +8,9 @@
 
 ![visitors](https://page-views.glitch.me/badge?page_id=jacjanowski.visitor-badge)
 
-<img height="300px" width="100%" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
-
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacjanowski&show_icons=true&theme=radical)
+
+<img height="500px" width="100%" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacjanowski)](https://github.com/jacjanowski/github-readme-stats)
 
