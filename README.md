@@ -7,6 +7,8 @@
 - ⚡ Fun fact: I'm an avid gamer (Counter Strike) and love spending my time coding up web apps and fun projects with the use of educational APIs.
 
 
+<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+
 ![visitors](https://page-views.glitch.me/badge?page_id=jacjanowski.visitor-badge)
 
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacjanowski&show_icons=true&theme=radical)
