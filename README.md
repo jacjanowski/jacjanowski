@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacjanowski)](https://github.com/jacjanowski/github-readme-stats)
-
 ![visitors](https://page-views.glitch.me/badge?page_id=jacjanowski.visitor-badge)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacjanowski&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacjanowski)](https://github.com/jacjanowski/github-readme-stats)
+
+
+![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacjanowski&show_icons=true)
