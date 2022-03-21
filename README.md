@@ -10,7 +10,7 @@
 
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacjanowski&show_icons=true&theme=radical)
 
-<img height="500px" width="100%" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img height="500px" width="100%" src="https://i.pinimg.com/originals/56/c4/06/56c40692c8bee56f0602139afc7ef069.gif">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacjanowski)](https://github.com/jacjanowski/github-readme-stats)
 
