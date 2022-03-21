@@ -1,8 +1,4 @@
-### Hi there 👋
-
-jacjanowski/jacjanowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Welcome to My Github!
 
 - 🔭 I’m currently working on NFT projects centered around Solana Blockchain
 - 🌱 I’m currently learning React via bootcamps
