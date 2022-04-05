@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React via bootcamps
 - 📫 How to reach me: [jacobjanowski.uic@gmail.com](jacobjanowski.uic@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm an avid gamer (Counter Strike) and love spending my time coding up web apps and fun projects with the use of educational APIs.
+- ⚡ Fun fact: I'm an avid gamer (Counter Strike) and love spending my time coding up web apps and fun/educational projects with the use of APIs.
 
 ![visitors](https://page-views.glitch.me/badge?page_id=jacjanowski.visitor-badge)
 
